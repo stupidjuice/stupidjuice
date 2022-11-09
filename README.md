@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**stupidjuice/stupidjuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub!
 
-Here are some ideas to get you started:
+- I have been programming for 2 years (remind me to update this in june 2023).
+- I'm okay at programming
+- According to my family, I am skilled enough to get a job (am I though?)
+- My favorite languages are C++ and C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### Languages I know
+- C++ (The best)
+- C#
+- Python
+- Java
+- JavaScript
+- C (I guess?)
+

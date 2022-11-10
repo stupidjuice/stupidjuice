@@ -10,7 +10,7 @@
 
 
 ### Languages I know
-- C++ (The best)
+- C++ (The best language ever (but only when it works))
 - C#
 - Python
 - Java
